@@ -2,6 +2,12 @@
 
 A minimalistic pickle based cache manager for your long and computationally expensive functions. 
 
+## Installation
+
+CacheManager is only available from python 3.6 and above. It requires no dependency and can be installed through pip:
+
+```pip install cache-manager```
+
 ## Examples
 
 The easiest way to use cache_manager is through its `memoize` decorator:
